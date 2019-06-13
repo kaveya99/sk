@@ -1,2 +1,2 @@
-s,k=map(str,input().split())
-print(s+k)
+q,s=map(str,input().split())
+print(q+s)
