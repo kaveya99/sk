@@ -1,5 +1,5 @@
-s,k=map(str,input().split())
-if  s>k:
-  print(s)
+m,n=map(str,input().split())
+if  m>n:
+  print(m)
 else:
-  print(k)
+  print(n)
