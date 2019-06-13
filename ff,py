@@ -1,4 +1,4 @@
-n,m=input().split( )
-k=int(m)
+n,s=input().split( )
+k=int(s)
 for i in range(0,k):
     print(n)
